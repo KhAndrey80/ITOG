@@ -1,0 +1,15 @@
+D:\Andrey Education\Homework\FIRST\bin\Debug\net6.0\FIRST.exe
+D:\Andrey Education\Homework\FIRST\bin\Debug\net6.0\FIRST.deps.json
+D:\Andrey Education\Homework\FIRST\bin\Debug\net6.0\FIRST.runtimeconfig.json
+D:\Andrey Education\Homework\FIRST\bin\Debug\net6.0\FIRST.dll
+D:\Andrey Education\Homework\FIRST\bin\Debug\net6.0\FIRST.pdb
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.csproj.AssemblyReference.cache
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.AssemblyInfoInputs.cache
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.AssemblyInfo.cs
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.csproj.CoreCompileInputs.cache
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.dll
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\refint\FIRST.dll
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.pdb
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\FIRST.genruntimeconfig.cache
+D:\Andrey Education\Homework\FIRST\obj\Debug\net6.0\ref\FIRST.dll
